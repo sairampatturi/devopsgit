@@ -19,4 +19,7 @@ if number > 1:
 else:
     print(number, "is not a prime number end")
     print("entered new line")
+<<<<<<< HEAD
 ##  comments added adding to check git
+##added
+
